@@ -1,6 +1,6 @@
 # Hallo 👋, I'm Ric Angelo Galo
 
-### 🚀Aspiring AI & UI/UX Developer | Starting on Building intelligent, upskill responsive web applications.
+### 🚀Aspiring AI & UI/UX Developer | Starting Building on intelligent, and upskill responsive web applications.
 
 - 🔭 I'm currently working on **HERD-V **
 
