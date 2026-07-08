@@ -12,14 +12,12 @@
 ![](https://streak-stats.demolab.com/?user=rickyrickric&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=rickyrickric&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=rickyrickric&theme=merko&no-frame=false&no-bg=false&margin-w=4)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=rickyrickric&limit=5&theme=dark&combine_all_yearly_contributions=true)
+### 🔝 Certification Badge
+![]<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="bee97f9f-54d4-4991-91ee-0c6519f37e20" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
 
 ---
 [![](https://komarev.com/ghpvc/?username=rickyrickric&icon=0&color=0)](https://visitcount.itsvg.in)
