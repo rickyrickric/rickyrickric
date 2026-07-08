@@ -17,8 +17,7 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 ### 🔝 Certification Badge
-![]<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="bee97f9f-54d4-4991-91ee-0c6519f37e20" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
-
+[![Certiport - IT Specialist - Databases](https://www.credly.com/badges/bee97f9f-54d4-4991-91ee-0c6519f37e20/public_url)](https://www.credly.com/earner/earned/badge/bee97f9f-54d4-4991-91ee-0c6519f37e20)
 ---
 [![](https://komarev.com/ghpvc/?username=rickyrickric&icon=0&color=0)](https://visitcount.itsvg.in)
 
