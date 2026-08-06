@@ -15,10 +15,4 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
-### 🔝 Certification Badge
-#### Certiport, a Pearson VUE business
-[![Certiport - IT Specialist - Databases](https://images.credly.com/size/680x680/images/49a492cd-5f72-4c9d-aafa-06649e4853fb/MicrosoftTeams-image__5_.png)](https://www.credly.com/earner/earned/badge/bee97f9f-54d4-4991-91ee-0c6519f37e20)
----
-[![](https://komarev.com/ghpvc/?username=rickyrickric&icon=0&color=0)](https://visitcount.itsvg.in)
-
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
